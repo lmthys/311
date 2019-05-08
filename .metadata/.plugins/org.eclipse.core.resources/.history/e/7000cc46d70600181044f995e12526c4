@@ -1,0 +1,12 @@
+package hw2;
+
+public class bubbleSort {
+	int i, j, temp;
+	boolean swapped;
+	for(i = 0; i < n - 1; i++)
+	{
+		swapped = false;
+		
+	}
+	
+}
